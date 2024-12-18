@@ -118,7 +118,15 @@ The project is deployed using **Vercel** for seamless hosting and CI/CD:
 - **Team**: `arbab-kamal`
 - **Project**: `google-doc-28706`
 
-## 📝 Screenshots
+## ✨ Upcoming Features: AI-Powered Enhancements
+
+We are working on enabling **AI features** within the document editor to provide a smarter, more efficient Google Docs-like experience. Stay tuned for:
+
+- ✨ AI-powered suggestions for text improvements
+- 📊 Intelligent formatting recommendations
+- 💡 Contextual grammar and content assistance
+
+**Stay tuned for updates to elevate your collaboration and document experience! 🚀**
 
 ## 📄 License
 
