@@ -128,6 +128,3 @@ We are working on enabling **AI features** within the document editor to provide
 
 **Stay tuned for updates to elevate your collaboration and document experience! 🚀**
 
-## 📄 License
-
-This project is licensed under the MIT License.
