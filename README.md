@@ -55,7 +55,7 @@ A real-time collaborative document editor built with **Next.js 15**, **Liveblock
 To run the project locally, set up the following environment variables:
 
 ```bash
-CONVEX_DEPLOYMENT=dev:beaming-okapi-98
+CONVEX_DEPLOYMENT=
 NEXT_PUBLIC_CONVEX_URL=<Your_Convex_URL>
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=<Your_Clerk_Public_Key>
 CLERK_SECRET_KEY=<Your_Clerk_Secret_Key>
